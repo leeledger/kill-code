@@ -1,0 +1,6 @@
+{
+  "name": "Computer Crash Simulator",
+  "description": "A playful and immersive browser simulator that mimics a computer glitch, system errors, and a fake shutdown process.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
